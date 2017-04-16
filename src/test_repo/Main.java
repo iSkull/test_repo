@@ -6,5 +6,6 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World!");
 		System.out.println("Test next check in");
+		System.out.println("I'm from branch!");
 	}
 }
